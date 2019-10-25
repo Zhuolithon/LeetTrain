@@ -1,6 +1,6 @@
 # Leetcode training
 
-## 4b- Chess game with knights   
+## 4b- Chess game with two knights   
 There are two knights walking towards each other. And you need to report the minimum steps for knight 1 to catch knight 2 (by parameter white_cap=1), otherwise the opposite. And also, please report how many ways that k1 could catch k2.  
 ```
 #!usr/bin/env python3
